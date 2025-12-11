@@ -33,7 +33,7 @@
     <string name="dolby_profile_dynamic">Dinamik</string>
     <string name="dolby_profile_movie">Film</string>
     <string name="dolby_profile_music">Müzik</string>
-    <string name="dolby_profile_voice">Ses</string>
+    <string name="dolby_profile_custom">Özel</string>
 
     <!-- Dolby equalizer presets -->
     <string name="dolby_preset_default">Düz (kapalı)</string>
